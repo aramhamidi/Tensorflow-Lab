@@ -1,7 +1,5 @@
-
-<h1 align="center">TensorFlow Neural Network Lab</h1>
-
-<img src="image/notmnist.png">
+# Tensorflow Lab
+## Training a simple Neural NetWork on notMNIST dataset
 
 This is just a clean summary for myself to remember what I have learned during my Udacity CarND term1 about tensorflow. The original Repo can be found here:
 
