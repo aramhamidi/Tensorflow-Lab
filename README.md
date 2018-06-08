@@ -1,7 +1,7 @@
 # Tensorflow Lab
 ## Training a simple Neural NetWork on notMNIST dataset
 
-This is just a clean summary for myself to remember what I have learned during my Udacity CarND term1 about tensorflow. The original Repo can be found here:
+This is just a clean summary of what I have done and learned during my Udacity CarND term1 about tensorflow. The original Repo can be found here:
 
 https://github.com/udacity/CarND-TensorFlow-Lab.git
 
